@@ -2,7 +2,6 @@
 
 ## E-Commerce Shop - Stripe + React, Redux, NestJS, and Mongo
 
-**12 Hour YouTube Tutorial**: https://www.youtube.com/playlist?list=PL9_OU-1M9E_sGc8wmVspxGwHUdCqDV8pM
 
 The Mongo database uses **Docker**
 
